@@ -1,0 +1,47 @@
+# Set default behaviour
+* text=auto
+
+*.template text diff=cpp
+*.c text diff=cpp
+*.h text diff=cpp
+*.cpp text diff=cpp
+*.hpp text diff=cpp
+*.inl text diff=cpp
+*.inc text diff=cpp
+*.hxx text diff=cpp
+*.cxx text diff=cpp
+*.cc text diff=cpp
+*.proto text diff=cpp
+
+*.py text diff=python
+*.pyw text diff=python
+
+*.props text
+*.sln text
+*.vcproj text
+*.xml text
+*.vsprops text
+*.vcxproj text
+*.filters text
+*.rc text
+*.rc2 text
+*.asm text
+*.txt text
+*.def text
+*.actions text
+*.sql text
+
+*.ico binary
+*.chm binary
+*.lib binary
+*.cur binary
+*.tga binary
+*.gif binary
+*.png binary
+*.dll binary
+*.a binary
+*.tlb binary
+*.scc binary
+*.zip binary
+*.com binary
+*.exe binary
