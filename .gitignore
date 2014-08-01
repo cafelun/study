@@ -11,13 +11,17 @@
 *.suo
 *.aps
 *.obj
+*.exe
 *.bmp
 *.ipch
 *.pch
 *.pdb
 *.idb
+*.ilk
 *.manifest
 *.bak
 *.bat
 *.sdf
+*.log
+*.tlog
 BuildLog.htm
